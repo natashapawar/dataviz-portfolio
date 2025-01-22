@@ -6,7 +6,6 @@ Welcome! This is my public portfolio for Telling Stories with Data at CMU - Spri
 Web page URL: https://natashapawar.github.io/dataviz-portfolio/
 
 # About Me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
 
 🌸🪷 **Name:** Natasha Pawar
 
@@ -18,23 +17,20 @@ Hi!  I really like data.  And I like visualizations.  So I guess you can say tha
 
 📖 **Currently Reading:** Yellowface by R.F. Kuang
 
+
+Growing up, I’ve always been captivated by stories — they’ve been the guiding force in everything I’ve chosen to pursue. In my undergraduate years at UC Davis, I studied Psychology, Communication, and Human Development — fields that explore the intricacies of human behavior and interaction. I wanted to learn the "why" behind people’s decisions, a foundation that proved invaluable during my ~2 years working in consulting for the Technology, Media, and Telecommunications sector. Whether developing strategies or analyzing trends, I continued to find myself drawn to the power of stories — those of consumers, businesses, and industries — and how they could inform impactful decisions.
+
+Now, as a graduate student at CMU pursuing a degree in the Entertainment Management sector, I have the unique opportunity to blend together both the creativite and analytical facets of storytelling. Upon graduation, I hope to pursue a career in strategy, consumer insights, or acquisitions and development for TV/streaming. 
+
+I’m passionate about creating stories that resonate, whether through analyzing data to understand an audience or helping bring a new series to life and I look forward to learning and further developing my skillset in the weeks to come!
+
 # What I Hope to Learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+Through the course of the Telling Stories with Data class, I seek to explore how different narratives can emerge from the same data set and how this can shape decision making. In addition to this, I hope to:
+- Build my understanding of GitHub and Tableau
+- Refine my skills in critiquing and analyzing data
+- Develop compelling and persuasive data visualizations for different audiences
 
 # Portfolio
-
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment 1: [Visualizing Government Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
@@ -43,10 +39,10 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final Project
-Here it might be helpful to include a high-level description of your final project. 
+Final Project Description TBD
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
-Part III(final-project-part-three)
+[Part III](final-project-part-three)
 
 ---
 ## Other stuff you can do (you can remove this section - it's just for your reference.)
