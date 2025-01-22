@@ -3,8 +3,16 @@
 # Natasha's TSWD Portfolio
 Welcome! This is my public portfolio for Telling Stories with Data at CMU - Spring 2025  
 
+Web page URL: https://natashapawar.github.io/dataviz-portfolio/
+
 # About Me
 Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+
+🌸🪷 Name: Natasha Pawar
+⭐ Pronouns: She/Her/Hers
+👩🏻‍🎓 Eduation: Master of Entertainment Industry Management, Carnegie Mellon University
+🎥 Currently Watching: 
+📖 Currently Reading:
 
 # What I Hope to Learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
@@ -24,13 +32,13 @@ or...
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment 1: [Visualizing Government Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
-## Final project
+## Final Project
 Here it might be helpful to include a high-level description of your final project. 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
