@@ -1,4 +1,4 @@
-| [Home Page](https://natashapawar.github.io/dataviz-portfolio/) | [Visualizing Government Debt](https://natashapawar.github.io/dataviz-portfolio/visualizing-government-debt) | [Critique by Design](https://natashapawar.github.io/dataviz-portfolio/critique-by-design) | [final project I](https://natashapawar.github.io/dataviz-portfolio/final-project-part-one) | [final project II](https://natashapawar.github.io/dataviz-portfolio/final-project-part-two) | [final project III](https://natashapawar.github.io/dataviz-portfolio/final-project-part-three) |
+| [Home Page](https://natashapawar.github.io/dataviz-portfolio/) | [Visualizing Government Debt](https://natashapawar.github.io/dataviz-portfolio/visualizing-government-debt) | [Critique by Design](https://natashapawar.github.io/dataviz-portfolio/critique-by-design) | [Final Project I](https://natashapawar.github.io/dataviz-portfolio/final-project-part-one) | [Final Project II](https://natashapawar.github.io/dataviz-portfolio/final-project-part-two) | [Final Project III](https://natashapawar.github.io/dataviz-portfolio/final-project-part-three) |
 
 # Natasha's TSWD Portfolio
 Welcome! This is my public portfolio for Telling Stories with Data at CMU - Spring 2025  
@@ -35,16 +35,16 @@ Through the course of the Telling Stories with Data class, I seek to explore how
 ## Assignment 1: [Visualizing Government Debt](https://natashapawar.github.io/dataviz-portfolio/visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
-## Assignment 3 & 4: [Critique by Design](critique-by-design)
+## Assignment 3 & 4: [Critique by Design](https://natashapawar.github.io/dataviz-portfolio/critique-by-design)
 
 ## Final Project
 Final Project Description TBD
 
-[Part I](final-project-part-one)
+[Part I](https://natashapawar.github.io/dataviz-portfolio/final-project-part-one)
 
-[Part II](final-project-part-two)
+[Part II](https://natashapawar.github.io/dataviz-portfolio/final-project-part-two)
 
-[Part III](final-project-part-three)
+[Part III](https://natashapawar.github.io/dataviz-portfolio/final-project-part-three)
 
 ---
 ## Other stuff you can do (you can remove this section - it's just for your reference.)
