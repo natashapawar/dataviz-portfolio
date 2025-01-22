@@ -9,9 +9,13 @@ Web page URL: https://natashapawar.github.io/dataviz-portfolio/
 Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
 
 🌸🪷 Name: Natasha Pawar
+
 ⭐ Pronouns: She/Her/Hers
+
 👩🏻‍🎓 Eduation: Master of Entertainment Industry Management, Carnegie Mellon University
+
 🎥 Currently Watching: 
+
 📖 Currently Reading:
 
 # What I Hope to Learn
