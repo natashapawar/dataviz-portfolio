@@ -10,13 +10,13 @@ Web page URL: https://natashapawar.github.io/dataviz-portfolio/
 <img align="left" src="Natasha image.jpeg" width="150"/>
 
 
-🌸🪷 **Name:** Natasha Pawar
+🪷 **Name:** Natasha Pawar
 
 ⭐ **Pronouns:** She/Her/Hers
 
 👩🏻‍🎓 **Eduation:** Master of Entertainment Industry Management, Carnegie Mellon University
 
-🎥 **Currently (Re)Watching:** White Collar (for the 6th time)
+🎥 **Currently (Re)Watching:** White Collar (for the 5th time)
 
 📖 **Currently Reading:** Yellowface by R.F. Kuang
 
