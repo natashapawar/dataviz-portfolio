@@ -7,7 +7,7 @@ Web page URL: https://natashapawar.github.io/dataviz-portfolio/
 
 # About Me
 
-<img align="left" src="Natasha image.jpeg" width="175"/>
+<img align="left" src="Natasha image.jpeg" width="150"/>
 
 
 🌸🪷 **Name:** Natasha Pawar
