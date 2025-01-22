@@ -8,15 +8,15 @@ Web page URL: https://natashapawar.github.io/dataviz-portfolio/
 # About Me
 Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
 
-🌸🪷 Name: Natasha Pawar
+🌸🪷 **Name:** Natasha Pawar
 
-⭐ Pronouns: She/Her/Hers
+⭐ **Pronouns:** She/Her/Hers
 
-👩🏻‍🎓 Eduation: Master of Entertainment Industry Management, Carnegie Mellon University
+👩🏻‍🎓 **Eduation:** Master of Entertainment Industry Management, Carnegie Mellon University
 
-🎥 Currently Watching: 
+🎥 **Currently (Re)Watching:** White Collar (for the 6th time)
 
-📖 Currently Reading:
+📖 **Currently Reading:** Yellowface by R.F. Kuang
 
 # What I Hope to Learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
