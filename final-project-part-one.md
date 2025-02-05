@@ -63,7 +63,7 @@ Text here...
 | Chapter 3   | Google Trends | Used for each selected movie to discuss the increase in engagement and interest for the specific IP             | [5](https://trends.google.com)            |
 
 
-I am still looking for additional data sources for book sales, and plan on creating my own Excel file collating data from different sources.
+*As mentioned above, I am still looking for additional data sources for book sales, and plan on creating my own Excel file collating data from different sources.*
 
 
 # Method and Medium
