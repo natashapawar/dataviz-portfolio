@@ -69,4 +69,6 @@ For my final solution, I took into account the feedback I received as well as th
 
 Taking into account the need of highlighting, or grouping by franchise, I also decided to focus on the Avengers franchise, given that it is the most popular Marvel Franchise. I made the colors different shades of blue, with the budget being a dark blue and the profits being a lighter blue to highlight the stark comparison between the two. 
 
-<img align, src = "Y3M1h--span-style-color-rgb-51-51-51-font-family-quot-tableau-light-quot-tableau-arial-sans-serif-font-size-20px-white-space-collapse-preserve-background-color-rgb-255-255-255-highest-grossing-marvel-movies-compared-to-their-budget-us-milli.png">
+I believe these changes have taken into account the concerns brought up in the critique, as well as allow for the original story to be highlighted, creating an improved visualization.
+
+<img src="Y3M1h--span-style-color-rgb-51-51-51-font-family-quot-tableau-light-quot-tableau-arial-sans-serif-font-size-20px-white-space-collapse-preserve-background-color-rgb-255-255-255-highest-grossing-marvel-movies-compared-to-their-budget-us-milli.png" width="550"/>
