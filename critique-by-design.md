@@ -12,16 +12,10 @@ I chose this visualization as it aligns well with my academic area of focus. I h
 
 I critiqued this visualization using Stephen Few's Data Visualization Effectiveness Profile.
 
-| Criteria        | Rating |
-|----------------|--------|
-| Usefulness     | 8      |
-| Completeness   | 10      |
-| Perceptibility | 6      |
-| Truthfulness   | 9      |
-| Intuitiveness  | 9      |
-| Aesthetics     | 6      |
-| Engagement     | 10      |
-
+| Criteria       | Usefulness |Completeness | Perceptibility | Truthfulness | Intuitiveness | Aesthetics | Engagement
+|-----------|--------|--------|--------|---------|-------|-------|-------|
+| Rating     | 8      |10      | 6      |9 | 9      | 6      |10      | 
+  
 *Observations:* The visualization effectively shows Marvel movies and their performance relative to their budgets over time. The color-coding by franchise and the ability to filter by franchise is very effective for identifying trends within each Marvel sub-franchise. For example, it's easy to see how Avengers movies consistently outperform in profitability. The inclusion of movie names next to each data point is very helpful for quickly identifying specific films without additional interaction. The ability to update and change the axes to further interact with the data also adds a lot of value to the interpretations possible. It is immediately clear that Avengers: Endgame and Spider-Man: No Way Home are clear leaders in profitability, while Incredible Hulk and Black Widow are among the lower performers. 
 
 *What Worked Well:* The dotted line indicating breakeven (100% budget recovery) helps viewers easily distinguish profitable movies from those that underperformed. The legend makes it easy to filter and group movies by franchise, adding even more clarity. The graph effectively communicates which Marvel movies were the most profitable relative to their budget, not showing causation but rather relating the data. The information is extremely valuable to any stakeholders or fans who may be interested in it and want to know more - they also have the ability to switch axes to draw more correlations.
@@ -41,25 +35,37 @@ Another recommendation could be using a diverging color scale to represent the p
 
 ## Part 3: Sketching Solutions
 
-In developing a solution to this dataviz, I brainstormed a few different solutions, keeping in mind my current skillset and applications available. 
+In developing a sketch for this dataviz, I brainstormed a few different solutions, keeping in mind my current skillset and applications available. 
+
+I wanted to make the visual a little less busy, especially considering the number of movies the original visualization was taking into account. I specifically wanted to tell the story of budget vs gross profits, making it easier to compare the budget of the film with the worldwide profit. While I think all the data the original visualization is extremely informative and beneficial, I don't think it tells a specific story - which is what I was seeking to rectify with the rework. 
+
+In an ideal world, I would like to make the visualization in a manner that each metric (ex: Audience Score (%), Critics Score (%), International Profit, Domestic Profit) could be added in different bars side by side and interchanged to be able to tell a different story as per the requirement in an manner that is easier and more intuitive to visualize and compare. 
+
+<div class='tableauPlaceholder' id='viz1739419665049' style='position: relative'><noscript><a href='#'><img alt='Highest Grossing Marvel Movies Compared to their Budget ($US millions) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17394196372020&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Book1_17394196372020&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17394196372020&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div>                
 
 
 ## Part 4: Testing the Solution
 
 | Question | Interview 1: Female, Mid 20's | Interview 2: Female, Mid 20's |
 |----------|-------------|-------------|
-| Can you tell me what you think this is?|             |             |
-| Can you describe to me what this is telling you?|             |             |
-| Is there anything you find surprising or confusing?|             |             |
-| Who do you think is the intended audience for this?|             |             |
-| Is there anything you would change or do differently?|             |             |
+| Can you tell me what you think this is?| A comparison of budget vs profit for Marvel films            | Comparing the budget and profit of films             |
+| Can you describe to me what this is telling you?| Budget doesn't predict the profit of a movie            | The profit of a movie is dependent on the franchise            |
+| Is there anything you confusing?| It's hard to compare the profit and budget of each film            | The bars aren't close to each other, making it harder to compare them            |
+| Who do you think is the intended audience for this?|  Marvel fans           | Stakeholders at Marvel + Entertainment professionals             |
+| Is there anything you would change or do differently?| Potentially have two x axes - one above and one below, and having different colors for each bar             | Grouping the movies by franchise to highlight which ones make the most profit for Marvel + Potentially adding timelines/years to highlight which moviees came first and whether that predicts the success of movies             |
 
 *Synthesis:*
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+From this feedback, I realized I need to further hone in on what story I am trying to tell with my data. While the comparison I was making was clear to the people I asked, I think the comparison was not as intuitive as I was intending it to be. This made it hard to tell the story I was trying to. This pattern was similar across both people.
+
+In addition, while it would be beneficial to add the franchises in either a different color or labels, I think this would add to the busyness of the visualization. The story of franchise difference is also not what I was intending to tell, therefore, while that might be beneficial to add, I don't plan on adding that element, however, will take it into account if there was a different intended audience or purpose.
+
+In my final redesign, I will work to make this comparison more apparent. 
+
 
 ## Part 5: Building the Final Solution
 
+For my final solution, I took into account the feedback I received as well as the aim of my story. I experimented with a grouped bar and stacked bar format, but I didn't think it was as impactful as a bullet chart, which I believed more intuitively illustrated the difference in budget and profit. 
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+Taking into account the need of highlighting, or grouping by franchise, I also decided to focus on the Avengers franchise, given that it is the most popular Marvel Franchise. I made the colors different shades of blue, with the budget being a dark blue and the profits being a lighter blue to highlight the stark comparison between the two. 
 
