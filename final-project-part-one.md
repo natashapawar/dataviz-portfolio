@@ -7,6 +7,8 @@
 ## Outline
 ### Summary
 This project concentrates on the economic implications of adapting books into movies, analyzing how these adaptations influence box office performance and audience engagement, and outweigh the heavy production costs (ex: buying the rights to the film). The study will evaluate the financial outcomes of these adaptations, looking at different standalone adaptations and series and their success rates, and how well these films do in domestic versus international markets. It will also consider the indirect effects on the visibility and longevity of the source books, and therefore publishers, creating a win-win scenario for both.
+
+
 Objective: To provide a data-driven narrative that informs stakeholders in both the publishing and film industries of the significant benefits of book-to-movie adaptations, encouraging more thoughtful and faithful adaptation practices that respect the source material while maximizing economic and cultural impact.
 
 ### Structure 
