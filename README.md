@@ -39,7 +39,7 @@ Through the course of the Telling Stories with Data class, I seek to explore how
 ## Assignment 3 & 4: [Critique by Design](https://natashapawar.github.io/dataviz-portfolio/critique-by-design)
 
 ## Final Project
-*Final Project Description TBD*
+My final project is titled, "From Print to Picture: Analyzing the Impact of Book-to-Movie Literary Adaptations" and it explores the effect of adaptations on the film industry, the publishing industry, common issues that arise in the industry and strategies for sucessful adpatations.
 
 [Part I](https://natashapawar.github.io/dataviz-portfolio/final-project-part-one)
 
